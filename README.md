@@ -76,6 +76,6 @@ No real company data or confidential systems were accessed.
 ---
 
 ### 🧠 Author
-**[Your Name]** — Cybersecurity Student | Google Cybersecurity Certificate  
-📧 [your.email@example.com](mailto:your.email@example.com)  
+**[Diva B Dintwa]** — Cybersecurity Student | Google Cybersecurity Certificate  
+📧 [ddiv9625@yaoo.com](mailto:your.email@example.com)  
 🌐 [Your GitHub Profile](https://github.com/YourUsername)  
