@@ -38,8 +38,12 @@ The purpose of this audit is to identify potential **security gaps**, assess **r
 
 - Identified **gaps in network monitoring** and **lack of centralized log management**.  
 - **Unpatched systems** increase vulnerability to ransomware and data breaches.  
-- **Limited access controls** in payment systems raise PCI DSS compliance concerns.  
-- **Data retention and privacy practices** require alignment with GDPR requirements.  
+- **Inadequate data security and encryption** raise PCI DSS compliance concerns.  
+- **Data retention and privacy practices** require alignment with GDPR requirements.
+- **Inadequate management of assets and data**
+- **Lack of compliance to regulations** such as the GBPR
+- **Absence of disaster recovery plans** and no backups of important data
+- **Absence of SIEM tools** that ensure business continuity
 
 ---
 
@@ -77,5 +81,5 @@ No real company data or confidential systems were accessed.
 
 ### 🧠 Author
 **[Diva B Dintwa]** — Cybersecurity Student | Google Cybersecurity Certificate  
-📧 [ddiv9625@yaoo.com](mailto:your.email@example.com)  
-🌐 [Your GitHub Profile](https://github.com/YourUsername)  
+📧 [ddiv9625@yaoo.com](mailto:ddiv9625@yahoo.com)  
+🌐 [DivaBDintwa](https://github.com/DivaBDintwa)  
