@@ -33,14 +33,12 @@ The purpose of this audit is to identify potential **security gaps**, assess **r
 
 ---
 
-### 🧩 Key Findings (Example Summary)
-> *These are example points — replace with your actual analysis once you complete the audit.*
+### 🧩 Key Findings 
 
-- Identified **gaps in network monitoring** and **lack of centralized log management**.  
-- **Unpatched systems** increase vulnerability to ransomware and data breaches.  
+- Identified **gaps in network monitoring** and **lack of centralized log management**.   
 - **Inadequate data security and encryption** raise PCI DSS compliance concerns.  
 - **Data retention and privacy practices** require alignment with GDPR requirements.
-- **Inadequate management of assets and data**
+- **Inadequate management of assets and data** as there is no encryption and the principle of least priviledge is not implemented
 - **Lack of compliance to regulations** such as the GBPR
 - **Absence of disaster recovery plans** and no backups of important data
 - **Absence of SIEM tools** that ensure business continuity
@@ -48,11 +46,12 @@ The purpose of this audit is to identify potential **security gaps**, assess **r
 ---
 
 ### 💡 Recommendations
-- Implement centralized **SIEM** for event correlation and intrusion detection.  
+- Implement centralized **SIEM** for event correlation,password management and intrusion detection.  
 - Develop a **patch management policy** and schedule.  
 - Conduct **PCI DSS gap analysis** for payment systems.  
 - Introduce **data protection policies** addressing EU customers’ personal information.  
-- Perform **annual internal audits** and **quarterly vulnerability scans**.  
+- Perform **annual internal audits** and **quarterly vulnerability scans**.
+- Implement principles of **least privilege** and **separation of duties**  
 
 ---
 
